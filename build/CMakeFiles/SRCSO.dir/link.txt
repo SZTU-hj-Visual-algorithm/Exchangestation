@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSRCSO.a  CMakeFiles/SRCSO.dir/src/Exchangestation.cpp.o CMakeFiles/SRCSO.dir/src/camera.cpp.o CMakeFiles/SRCSO.dir/src/serial.cpp.o
+/usr/bin/ranlib libSRCSO.a

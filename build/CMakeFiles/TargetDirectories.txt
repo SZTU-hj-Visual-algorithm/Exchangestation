@@ -1,0 +1,4 @@
+/home/fly/My_gitcode/duihuanstation/build/CMakeFiles/rebuild_cache.dir
+/home/fly/My_gitcode/duihuanstation/build/CMakeFiles/edit_cache.dir
+/home/fly/My_gitcode/duihuanstation/build/CMakeFiles/SRCSO.dir
+/home/fly/My_gitcode/duihuanstation/build/CMakeFiles/run.dir

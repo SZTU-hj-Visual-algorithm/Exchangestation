@@ -1,0 +1,4 @@
+/home/fly/下载/clion-2022.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/fly/下载/clion-2022.2.1/bin/ninja/linux/ninja -G Ninja -S /home/fly/My_gitcode/duihuanstation -B /home/fly/My_gitcode/duihuanstation/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fly/My_gitcode/duihuanstation/cmake-build-debug
